@@ -1,0 +1,17 @@
+commit 0aafd90b8064165208357198eae25e26c09fba9a
+Author: BryanPerez83 <bryan.pere.922.lol@gmail.com>
+Date:   Sun Mar 7 09:15:14 2021 -0600
+
+    tercera parte del curso
+
+commit 119676354fcdc73b6f652af61921ab7f792552f9
+Author: BryanPerez83 <bryan.pere.922.lol@gmail.com>
+Date:   Sun Mar 7 09:03:28 2021 -0600
+
+     segunda parte del curso
+
+commit 90c89363f5403c167077c57bc62ff01001477391
+Author: BryanPerez83 <bryan.pere.922.lol@gmail.com>
+Date:   Sun Mar 7 08:50:32 2021 -0600
+
+    primer dia del curso
